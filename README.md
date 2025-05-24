@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny-cyber14
 - 👀 I’m interested in Web development and Programming. 
-- 🌱 I’m currently learning HTML, CSS and MERN STACK
+- 🌱 I’m currently Js
 - 💞️ I’m looking to collaborate with others in creating and building incredible softwares and learning more complex languages
 - 📫 How to reach me ... Email: danielefepender@gmail.com , Phone: +2348069970196 , Discord: @gamerzzz-z , Facebook: Daniel Pender
 - 😄 Pronouns: He, Him, His, They...
