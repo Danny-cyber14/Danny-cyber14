@@ -1,8 +1,10 @@
 👋 Hello, I'm Daniel Pender (aka Danny-cyber14)
 💼 Tech Entrepreneur | Web Developer | Software Engineer | AI specialist / enthusiast in Training
+
 I'm a passionate and driven software engineer currently expanding my skills in Python and software engineering (AI specialised). With a strong interest in building scalable and impactful digital products, I’m actively seeking opportunities to collaborate with like-minded developers and tech enthusiasts.
 
 🔍 What I'm Working On:
+
 Deepening my Python foundations and transitioning into applied AI/ML development
 
 Building hands-on projects involving data processing, machine learning, and automation
