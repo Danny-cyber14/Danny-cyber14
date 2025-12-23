@@ -1,13 +1,13 @@
 👋 Hello, I'm Daniel Pender (aka Danny-cyber14)
-💼 Tech Entrepreneur | Web Developer | Software Engineer in Training
-I'm a passionate and driven web developer currently expanding my skills in JavaScript and software engineering. With a strong interest in building scalable and impactful digital products, I’m actively seeking opportunities to collaborate with like-minded developers and tech enthusiasts.
+💼 Tech Entrepreneur | Web Developer | Software Engineer | AI specialist / enthusiast in Training
+I'm a passionate and driven software engineer currently expanding my skills in Python and software engineering (AI specialised). With a strong interest in building scalable and impactful digital products, I’m actively seeking opportunities to collaborate with like-minded developers and tech enthusiasts.
 
 🔍 What I'm Working On:
-Mastering JavaScript and frontend frameworks
+Deepening my Python foundations and transitioning into applied AI/ML development
 
-Exploring backend development and full-stack applications
+Building hands-on projects involving data processing, machine learning, and automation
 
-Building innovative software solutions through Nexora and InnovaX
+Laying the groundwork for intelligent systems and future robotics applications
 
 🤝 Let’s Collaborate:
 I'm open to collaborating on exciting web, app, game, or AI-based projects. Whether you're building something awesome or want to co-create tools that make lives easier, let’s connect.
