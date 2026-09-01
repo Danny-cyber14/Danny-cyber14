@@ -19,7 +19,7 @@ Email: danielefepender@gmail.com
 
 Phone: +234 806 997 0196
 
-Discord: @d4nny_boss
+Discord: @.mr.404
 
 Facebook: Daniel Pender
 
